@@ -1,4 +1,4 @@
-(/archi.png)
+(./archi.png)
 
 **Presentation Layer:**
 
