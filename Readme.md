@@ -1,4 +1,4 @@
-(./archi.png)
+![sketch](./sketch.jpeg)
 
 **Presentation Layer:**
 
